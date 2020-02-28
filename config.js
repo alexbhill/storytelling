@@ -1,7 +1,7 @@
 var config = {
     style: 'mapbox://styles/mapbox/dark-v10',
     accessToken: 'pk.eyJ1IjoiYWxleGJoaWxsIiwiYSI6IjZFN0swWE0ifQ.PF_TEbZamKXTdN3pn0j-VA',
-    showMarkers: true,
+    showMarkers: false,
     theme: 'light',
     alignment: 'left',
     title: '',
@@ -22,7 +22,7 @@ var config = {
             },
             onChapterEnter: [
                  {
-                     layer: 'htn-tract',
+                     layer: 'htn_tract-d8fnh2',
                      opacity: 1
                 }
             ],
