@@ -21,10 +21,10 @@ var config = {
                 bearing: 0
             },
             onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1
-                // }
+                 {
+                     layer: 'mapbox://styles/alexbhill/ck73pzpsa0f1k1ikpxts9jm7f',
+                     opacity: 1
+                }
             ],
             onChapterExit: [
                 // {
