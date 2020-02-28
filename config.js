@@ -22,7 +22,7 @@ var config = {
             },
             onChapterEnter: [
                  {
-                     layer: 'mapbox://styles/alexbhill/ck73pzpsa0f1k1ikpxts9jm7f',
+                     layer: 'htn-tract',
                      opacity: 1
                 }
             ],
