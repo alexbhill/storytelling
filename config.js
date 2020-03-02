@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/mapbox/dark-v10',
+    style: 'mapbox://styles/alexbhill/ck73pzpsa0f1k1ikpxts9jm7f',
     accessToken: 'pk.eyJ1IjoiYWxleGJoaWxsIiwiYSI6IjZFN0swWE0ifQ.PF_TEbZamKXTdN3pn0j-VA',
     showMarkers: false,
     theme: 'light',
