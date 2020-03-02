@@ -12,7 +12,7 @@ var config = {
         {
             id: 'slug-style-id',
             title: 'Hypertension Across the Metro Detroit Region',
-            image: './path/to/image/source.png',
+            image: 'https://ibio.wayne.edu/ibio_photos/ibio_logo.jpg',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: [-83.13276, 42.38263],
