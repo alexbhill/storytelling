@@ -46,7 +46,7 @@ var config = {
             },
             onChapterEnter: [
                 { 
-                layer:  'alexbhill.ck7cem7hc007y2qqo6aammq1v-84uwz',
+                layer:  'Medically_Underserved_Areas_Popu',
                 opacity: 1
                 }
             ],
