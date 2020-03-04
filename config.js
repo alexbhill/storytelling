@@ -42,7 +42,7 @@ var config = {
                 center: [-83.13276, 42.38263],
                 zoom: 10,
                 pitch: 10,
-                bearing: -43.2
+                bearing: 0
             },
             onChapterEnter: [
                 { 
@@ -59,7 +59,7 @@ var config = {
             description: 'The lower Eastside area of Detroit has low rent high-rise apartments where many Seniors live. However, this also makes access to nearby health care services difficult.',
             location: {
                 center: [-83.00160, 42.34710],
-                zoom: 13.5,
+                zoom: 5,
                 pitch: 60,
                 bearing: -43.2
             },
