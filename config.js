@@ -58,10 +58,10 @@ var config = {
             image: 'https://images1.apartments.com/i2/EpR-pytwo6L7quP0JM-7vz7MZmTxXzHqBC6WJ59TrcI/115/2900-e-jefferson-ave-detroit-mi-building-photo.jpg',
             description: 'The lower Eastside area of Detroit has low rent high-rise apartments where many Seniors live. However, this also makes access to nearby health care services difficult.',
             location: {
-                center: [-83.00160, 42.34710],
+                center: [-82.97852, 42.35675 ],
                 zoom: 13,
                 pitch: 60,
-                bearing: -43.2
+                bearing:0
             },
             onChapterEnter: [],
             onChapterExit: []
