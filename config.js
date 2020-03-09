@@ -35,7 +35,7 @@ var config = {
         },
          {
             id: 'other-identifier',
-            title: 'Second Title',
+            title: 'Medically Underserved',
             image: '',
             description: 'The majority of city residents live in medically underserved areas where there are not enough doctors to serve everyone.',
             location: {
