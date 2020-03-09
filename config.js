@@ -54,13 +54,13 @@ var config = {
         },
         {
             id: 'other-identifier',
-            title: 'Second Title',
+            title: 'Seniors on the Eastside',
             image: 'https://images1.apartments.com/i2/EpR-pytwo6L7quP0JM-7vz7MZmTxXzHqBC6WJ59TrcI/115/2900-e-jefferson-ave-detroit-mi-building-photo.jpg',
             description: 'The lower Eastside area of Detroit has low rent high-rise apartments where many Seniors live. However, this also makes access to nearby health care services difficult.',
             location: {
-                center: [-82.97852, 42.35675 ],
-                zoom: 13,
-                pitch: 60,
+                center: [-82.97881, 42.35755],
+                zoom: 14,
+                pitch: 10,
                 bearing:0
             },
             onChapterEnter: [],
