@@ -46,7 +46,7 @@ var config = {
             },
             onChapterEnter: [
                 { 
-                layer:  'Medically_Underserved_Areas_Popu',
+                layer:  'ck7cem7hc007y2qqo6aammq1v',
                 opacity: 1
                 }
             ],
